@@ -1,17 +1,14 @@
 # Architecture Overview of Localizr Project
 
----
-
-## Overview
 
 Localizr project is divided into three main layers: Services (API Backends), Session (Stateful), and Views (SwiftUI). 
----
+
 
 ## Modes of Operation
 
 Localizr operates in two modes: **Frontend Only** and **Backend Integrated**. A service factory pattern is used to switch between these modes based on the environment configuration.
 
----
+
 
 ## Layers and Components
 
@@ -41,7 +38,7 @@ Localizr operates in two modes: **Frontend Only** and **Backend Integrated**. A 
 - **MapARToggle, NavigationSearch, MapOverlay, LocalizeOverlay**
   - Specific views for toggling AR mode, searching specific rooms, and displaying map overlays.
 
----
+
 
 
 
