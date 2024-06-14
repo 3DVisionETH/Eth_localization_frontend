@@ -3,6 +3,13 @@
 
 Localizr project is divided into three main layers: Services (API Backends), Session (Stateful), and Views (SwiftUI). 
 
+# DEMO
+
+# Find your location
+
+
+# Find a specific room
+
 
 ## Modes of Operation
 
