@@ -5,10 +5,10 @@ Localizr project is divided into three main layers: Services (API Backends), Ses
 
 # DEMO
 
-# Find your location
+## Find your location
 
 
-# Find a specific room
+## Find a specific room
 
 
 ## Modes of Operation
@@ -45,6 +45,25 @@ Localizr operates in two modes: **Frontend Only** and **Backend Integrated**. A 
 - **MapARToggle, NavigationSearch, MapOverlay, LocalizeOverlay**
   - Specific views for toggling AR mode, searching specific rooms, and displaying map overlays.
 
+
+## Execution Flow
+
+**Initialization:**
+
+AppDelegate and AppTheme set up the application and theme.
+
+**Data Fetching:**
+
+BuildingService fetches required data (floor plans, room info) from the local database (frontend only) or backend APIs (backend mode).
+
+**Session Management:**
+
+LocalizerSession localize you in the building.
+NavigationSession calculates routes based on the provided localization and building data.
+
+**UI Rendering:**
+
+UI components interact with sessions to provide real-time updates and user interactions, displaying maps, location and path to final destination
 
 
 
