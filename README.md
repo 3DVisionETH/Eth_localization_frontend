@@ -5,11 +5,7 @@ Localizr project is divided into three main layers: Services (API Backends), Ses
 
 # DEMO
 
-## Find your location
-
-
-## Find a specific room
-
+(https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
 
 ## Modes of Operation
 
