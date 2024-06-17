@@ -5,7 +5,7 @@ Localizr project is divided into three main layers: Services (API Backends), Ses
 
 # DEMO
 
-https://github.com/3DVisionETH/Eth_localization_frontend/blob/main/Localizr_demo-2
+https://github.com/3DVisionETH/Eth_localization_frontend/Localizr_demo-2.mp4
 
 ## Modes of Operation
 
