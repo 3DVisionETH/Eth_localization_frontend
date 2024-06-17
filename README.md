@@ -5,7 +5,7 @@ Localizr project is divided into three main layers: Services (API Backends), Ses
 
 # DEMO
 
-(https://github.com/3DVisionETH/Eth_localization_frontend/blob/main/Localizr_demo-2.mp4)
+https://github.com/3DVisionETH/Eth_localization_frontend/blob/main/Localizr_demo-2.mp4
 
 ## Modes of Operation
 
@@ -13,7 +13,7 @@ Localizr operates in two modes: **Frontend Only** and **Backend Integrated**. A 
 
 
 ## Layers and Components
-![Immagine 14-06-24 - 19 34]([https://github.com](https://raw.githubusercontent.com/)/3DVisionETH/Eth_localization_frontend/assets/109732478/993382f4-1c71-4ac7-8d48-8c292a1d1c53)
+![Immagine 14-06-24 - 19 34]([https:/3DVisionETH/Eth_localization_frontend/assets/109732478/993382f4-1c71-4ac7-8d48-8c292a1d1c53)
 
 
 
